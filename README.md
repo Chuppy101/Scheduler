@@ -17,5 +17,10 @@ cd Scheduler
 Для запуска приложения используйте Node.js:
 
 ```bash
-node your_script_name.js
+node Schedule.js
+```
+или
+
+```bash
+node DinamicSchedule.js
 ```
